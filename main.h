@@ -1,7 +1,3 @@
-//
-// Created by chen on 2022/7/26.
-//
-
 #ifndef SERVER_2_0_MAIN_H
 #define SERVER_2_0_MAIN_H
 

@@ -1,7 +1,3 @@
-//
-// Created by chen on 2022/7/5.
-//
-
 #include "sqlConnectionPool.h"
 
 connection_pool::connection_pool()

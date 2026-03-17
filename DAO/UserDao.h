@@ -1,7 +1,3 @@
-//
-// Created by chen on 2022/7/30.
-//
-
 #ifndef SERVER_2_0_USERDAO_H
 #define SERVER_2_0_USERDAO_H
 #include "../sql/sqlConnectionPool.h"

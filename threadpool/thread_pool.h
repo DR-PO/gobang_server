@@ -1,7 +1,3 @@
-//
-// Created by chen on 2022/6/17.
-//
-
 #ifndef TEST_THREAD_POOL_H
 #define TEST_THREAD_POOL_H
 #include <iostream>

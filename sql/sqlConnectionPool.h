@@ -1,7 +1,3 @@
-//
-// Created by chen on 2022/7/5.
-//
-
 #ifndef MYWEBSERVER_SQLCONNECTIONPOOL_H
 #define MYWEBSERVER_SQLCONNECTIONPOOL_H
 

@@ -1,7 +1,3 @@
-//
-// Created by chen on 2022/7/25.
-//
-
 #ifndef SERVER_2_0_ROOM_H
 #define SERVER_2_0_ROOM_H
 

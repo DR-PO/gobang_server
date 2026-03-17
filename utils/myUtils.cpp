@@ -1,7 +1,3 @@
-//
-// Created by chen on 2022/7/24.
-//
-
 #include "myUtils.h"
 
 void myUtils::setNonBlock(int fd){

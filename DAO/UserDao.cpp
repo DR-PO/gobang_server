@@ -1,7 +1,3 @@
-//
-// Created by chen on 2022/7/30.
-//
-
 #include "UserDao.h"
 
 UserDao::UserDao() {

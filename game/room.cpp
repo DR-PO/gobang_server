@@ -1,7 +1,3 @@
-//
-// Created by chen on 2022/7/25.
-//
-
 #include "room.h"
 
 #include <utility>

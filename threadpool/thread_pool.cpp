@@ -1,6 +1,3 @@
-//
-// Created by chen on 2022/6/17.
-//
 #include "thread_pool.h"
 
 //构造函数
